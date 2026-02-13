@@ -30,14 +30,8 @@ CSE Student | 📊 Data Science Enthusiast | 🤖 ML Learner | 🌐 MERN Develop
 
 ---
 
-## 🚀 What I'm Working On
-- End-to-end data science projects  
-- Machine learning models with real datasets  
-- Full-stack MERN applications  
 
----
-
-## 📫 Connect With Me
+## 📫 Contact
 - GitHub: [abdulkadr53](https://github.com/abdulkadr53)  
 - Email: alsoabdlkadr@gmail.com
 
